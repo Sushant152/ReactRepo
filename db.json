@@ -1,0 +1,15 @@
+{
+    "posts": [
+        {
+            "title": "Beutiful Scenery",
+            "userid": 1,
+            "author": "Sameer",
+            "desc":"Loving the moment"
+        },
+        { "title": "Yoga Guidelines",
+            "userid": 2,
+            "author": "Raj",
+            "desc":"Follow these"
+        }
+    ]
+}
